@@ -72,7 +72,7 @@ const Projects = () => {
           className="btn"
           target="_blank"
           rel="noreferrer"
-          href="https://www.github.com/piyush-eon"
+          href="https://github.com/abbas-samadani"
         >
           View More
         </a>
